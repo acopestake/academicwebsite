@@ -1,12 +1,11 @@
 ---
-title: "An example conference paper -- WPtest"
+title: "Multi-product firms, networks and quality-upgrading: Evidence from China in India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Robert Ford
 
 # Author notes (optional)
 author_notes:
