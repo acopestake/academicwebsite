@@ -39,9 +39,9 @@ experience:
     description: |2-
         Courses taught:
         
-        * Undergraduate - Economics of Developing Countries
-        * MSc Economics for Development - International Trade
-        * DPhil Continuing Education - Econometrics
+        * Undergraduate — Economics of Developing Countries
+        * MSc Economics for Development — International Trade
+        * DPhil Continuing Education — Econometrics
         
   - title: Research Assistant
     company: Oxford Martin School
@@ -49,7 +49,7 @@ experience:
     location: Oxford
     date_start: '2020-04-01'
     date_end: '2020-09-30'
-    description: RA for Professor Ian Goldin - Oxford Martin Programme on Technological and Economic Change
+    description: RA for Professor Ian Goldin — Oxford Martin Programme on Technological and Economic Change
         
   - title: Fund Internship Program (FIP)
     company: International Monetary Fund
