@@ -22,24 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    location: California
-    date_start: '2017-01-01'
+  - title: Consultant
+    company: The World Bank
+    company_url: 'https://www.worldbank.org/en/home'
+    location: Washington, D.C. 
+    date_start: '2021-02-15'
+    date_end: ''
+    description: Project on the impacts of industrial robotics on developing countries.
+
+- title: Graduate Teaching Assistant
+    company: University of Oxford
+    company_url: 'https://www.economics.ox.ac.uk/#/'
+    location: Oxford
+    date_start: '2019-06-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Courses taught:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Undergraduate -- Economics of Developing Countries
+        * MSc Economics for Development -- International Trade
+        * DPhil Continuing Education -- Econometrics
         
-  - title: Professor
-    company: University X
-    company_url: ''
+  - title: Research Assistant
+    company: Oxford Martin School
+    company_url: 'https://www.oxfordmartin.ox.ac.uk'
     location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    date_start: '2020-04-01'
+    date_end: '2020-09-30'
+    description: RA for Professor Ian Goldin -- Oxford Martin Programme on Technological and Economic Change
+
 ---
