@@ -7,6 +7,10 @@ title: "Multi-product firms, networks and quality-upgrading: Evidence from China
 authors:
 - admin
 
+# Hide author info and social sharing links in page
+profile: false
+share: false
+
 # Author notes (optional)
 author_notes:
 - ""
