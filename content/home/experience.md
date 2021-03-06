@@ -21,7 +21,6 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-
 experience:
   - title: Consultant
     company: The World Bank
@@ -40,16 +39,15 @@ experience:
     description: |2-
         Courses taught:
         
-        * Undergraduate -- Economics of Developing Countries
-        * MSc Economics for Development -- International Trade
-        * DPhil Continuing Education -- Econometrics
+        * Undergraduate - Economics of Developing Countries
+        * MSc Economics for Development - International Trade
+        * DPhil Continuing Education - Econometrics
         
   - title: Research Assistant
     company: Oxford Martin School
     company_url: 'https://www.oxfordmartin.ox.ac.uk'
-    location: California
+    location: Oxford
     date_start: '2020-04-01'
     date_end: '2020-09-30'
-    description: RA for Professor Ian Goldin -- Oxford Martin Programme on Technological and Economic Change
-
+    description: RA for Professor Ian Goldin - Oxford Martin Programme on Technological and Economic Change
 ---
