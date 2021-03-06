@@ -28,7 +28,7 @@ experience:
     location: Washington, D.C. 
     date_start: '2021-02-15'
     date_end: ''
-    description: Project on the impacts of industrial robotics on developing countries.
+    description: Project investigating the impacts of industrial robotics on developing countries.
 
   - title: Graduate Teaching Assistant
     company: University of Oxford
@@ -50,4 +50,12 @@ experience:
     date_start: '2020-04-01'
     date_end: '2020-09-30'
     description: RA for Professor Ian Goldin - Oxford Martin Programme on Technological and Economic Change
+        
+  - title: Fund Internship Program (FIP)
+    company: International Monetary Fund
+    company_url: 'https://www.imf.org/en/Home'
+    location: Washington, D.C.
+    date_start: '2019-06-01'
+    date_end: '2019-08-31'
+    description: Fiscal Affairs Department    
 ---
