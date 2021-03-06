@@ -24,13 +24,13 @@ organizations:
 education:
   courses:
     - course: DPhil in Economics
-      institution: Oxford University
+      institution: University of Oxford
       year: 2021 (anticipated)
     - course: MSc in Development Economics
-      institution: Oxford University
+      institution: University of Oxford
       year: 2017
     - course: BA in Philosophy, Politics & Economics
-      institution: Oxford University
+      institution: University of Oxford
       year: 2015
 email: ""
 superuser: true
