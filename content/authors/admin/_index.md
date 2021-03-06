@@ -71,6 +71,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a DPhil (PhD) Candidate at the University of Oxford. I work on international trade, development, and the impacts of new technologies. In September I'll be joining the Economist Program at the International Monetary Fund.
+I am a DPhil (PhD) Candidate in Economics at the University of Oxford. I work on international trade, development, and the impacts of new technologies. In September I'll be joining the Economist Program at the International Monetary Fund.
 
 # {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
