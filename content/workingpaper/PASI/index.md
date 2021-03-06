@@ -43,12 +43,16 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
+links: 
+- name: Slides
+  url_slides: 'slides.pdf'
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -64,5 +68,5 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: PASI
+# slides: PASI
 ---
