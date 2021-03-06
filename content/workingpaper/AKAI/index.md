@@ -72,4 +72,3 @@ slides: example
 ---
 
 Paper coming soon...
-+ we're hiring RAs -- get in touch!
