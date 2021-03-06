@@ -43,9 +43,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-links: 
-- name: Slides
-  url_slides: 'slides.pdf'
+url_slides: 'slides.pdf'
 
 url_pdf: ''
 url_code: ''
