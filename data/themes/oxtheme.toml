@@ -11,11 +11,11 @@ primary = "rgb(255,255,255)"
 menu_primary = "rgb(12.0003,34.99875,68.00085)"
 menu_text = "rgb(255,255,255)"
 menu_text_active = "rgb(255,255,255)"
-menu_title = "rgb(255,255,255)"
+menu_title = "rgb(144, 53, 59)"
 
 # Home sections
-home_section_odd = "rgb(93.993,134.0025,158.9925)"
-home_section_even = "rgb(93.993,134.0025,158.9925)"
+home_section_odd = "rgb(255,255,255)"
+home_section_even = "rgb(255,255,255)"
 
 [dark]
   link = "#bbdefb"
