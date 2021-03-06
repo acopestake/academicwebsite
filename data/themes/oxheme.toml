@@ -1,11 +1,11 @@
 # Theme metadata
-name = "OxTheme"
+name = "oxtheme"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#1565c0"
+primary = "rgb(12.0003,34.99875,68.00085)"
 
 # Menu
 menu_primary = "#fff"
