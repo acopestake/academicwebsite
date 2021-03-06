@@ -30,8 +30,8 @@ address:
   country: United Kingdom
   country_code: GB
 coordinates:
-  latitude: '51.75715458782225'
-  longitude: '-1.246696038521608'
+  latitude: '51.7571'
+  longitude: '-1.2466'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 
 # Site header
