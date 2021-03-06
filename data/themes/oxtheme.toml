@@ -5,7 +5,7 @@ name = "oxtheme"
 light = true
 
 # Primary
-primary = "rgb(12.0003,34.99875,68.00085)"
+primary = "rgb(93.993,134.0025,158.9925)"
 
 # Menu
 menu_primary = "#fff"
