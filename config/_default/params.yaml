@@ -24,11 +24,11 @@ email: alexander.copestake@economics.ox.ac.uk
 # phone: 888 888 88 88
 address:
   street: Economics Dept., Manor Road Building, Manor Road
-  city: Oxford OX1 3UQ
+  city: Oxford
 #  region: 
-#  postcode: 'OX1 3UQ'
+  postcode: 'OX1 3UQ'
   country: United Kingdom
-  country_code: UK
+  country_code: GB
 coordinates:
   latitude: '51.75715458782225'
   longitude: '-1.246696038521608'
