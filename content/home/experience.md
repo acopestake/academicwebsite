@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: Project on the impacts of industrial robotics on developing countries.
 
-- title: Graduate Teaching Assistant
+  - title: Graduate Teaching Assistant
     company: University of Oxford
     company_url: 'https://www.economics.ox.ac.uk/#/'
     location: Oxford
