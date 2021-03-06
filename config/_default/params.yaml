@@ -7,7 +7,7 @@
 
 theme: oxtheme
 day_night: true
-font: ''
+font: 'rose'
 font_size: L
 
 # SEO
