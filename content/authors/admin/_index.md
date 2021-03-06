@@ -4,10 +4,10 @@ role: DPhil student in Economics
 bio: My research focusses on international trade, development, automation and
   artificial intelligence.
 interests:
-  - International trade
   - Development economics
-  - Industrial robotics
+  - International trade
   - Artificial Intelligence
+  - Industrial robotics
 social:
   - icon: envelope
     icon_pack: fas
