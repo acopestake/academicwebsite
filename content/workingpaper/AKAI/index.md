@@ -9,6 +9,10 @@ authors:
 - Ashley Pople
 - Katherine Stapleton
 
+# Hide author info and social sharing links in page
+profile: false
+share: false
+
 # Author notes (optional)
 author_notes:
 - ""
@@ -67,4 +71,5 @@ image:
 slides: example
 ---
 
-Paper coming soon! 
+Paper coming soon...
++ we're hiring RAs -- get in touch!
