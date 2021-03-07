@@ -6,7 +6,7 @@ bio: My research focusses on international trade, development, automation and
 interests:
   - Development economics
   - International trade
-  - Artificial Intelligence
+  - Artificial intelligence
   - Industrial robotics
 social:
   - icon: envelope
