@@ -57,5 +57,5 @@ experience:
     location: Washington, D.C.
     date_start: '2019-06-01'
     date_end: '2019-08-31'
-    description: Fiscal Affairs Department    
+    description: Fiscal Affairs Department --> [IMF Working Paper on VAT pass-through](https://www.imf.org/en/Publications/WP/Issues/2021/03/05/The-Role-of-Market-Structure-and-Timing-in-Determining-VAT-Pass-Through-50113)
 ---
