@@ -28,7 +28,9 @@ experience:
     location: Washington, D.C. 
     date_start: '2021-02-15'
     date_end: ''
-    description: Development Research Group: Project investigating the impacts of industrial robotics on developing countries.
+    description: |2-
+    Development Research Group
+    Project investigating the impacts of industrial robotics on developing countries.
 
   - title: Graduate Teaching Assistant
     company: University of Oxford
