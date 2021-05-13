@@ -68,3 +68,5 @@ image:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
+
+Paper coming soon!
