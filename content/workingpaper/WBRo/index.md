@@ -10,6 +10,10 @@ authors:
 - Paulo Bastos
 - Bob Rijkers
 
+# Hide author info and social sharing links in page
+profile: false
+share: false
+
 # Author notes (optional)
 author_notes:
 - ""
