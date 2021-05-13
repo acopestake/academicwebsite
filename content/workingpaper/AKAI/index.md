@@ -65,4 +65,4 @@ image:
 
 ---
 
-Paper coming soon...
+Paper coming soon!
