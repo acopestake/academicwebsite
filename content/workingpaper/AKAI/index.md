@@ -64,5 +64,3 @@ image:
   preview_only: false
 
 ---
-
-Paper coming soon!
