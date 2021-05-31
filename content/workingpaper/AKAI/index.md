@@ -1,5 +1,5 @@
 ---
-title: "Artificial intelligence, reshoring and services-led growth: Evidence from Indian job postings"
+title: "AI, firms and wages: Evidence from India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -35,7 +35,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: With manufacturing increasingly dominated by China and industrial robotics, services-led development models have become targets for future employment growth. Increased capabilities in artificial intelligence could undermine this by displacing labour (e.g. chat-bots replacing call centres), or could support employment by increasing worker productivity and creating new tasks or products. Greater AI capabilities in rich countries could drive task reshoring, or create new tasks to offshore (e.g. data tagging). We first use existing AI measures to investigate these forces in administrative data on the Indian services sector, and find evidence consistent with firm-level productivity effects and industry-level displacement effects. Current work in progress uses 32 million vacancy postings from India’s largest online jobs platform to extend the analysis.
+abstract: We examine the impact of artificial intelligence on hiring and wages in the service sector using a novel dataset of 15 million vacancy posts from India’s largest jobs website. We first document a rapid rise in demand for AI skills since 2016, particularly in the IT, finance and professional services industries. Vacancies demanding AI skills list substantially higher wages, but require more education and are highly concentrated in the largest firms and a small number of high-tech clusters. Exploiting plausibly exogenous variation in exposure to advances in AI technologies, we then examine the impacts of establishment demand for AI skills as a proxy for AI adoption. We find that growth in AI demand has a direct negative impact on the growth of non-AI and total job posts, and reduces the growth of wage offers across the distribution.
 
 tags: []
 
