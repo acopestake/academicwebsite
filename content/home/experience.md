@@ -28,7 +28,7 @@ experience:
     location: Washington, D.C. 
     date_start: '2021-09-13'
     date_end: ''
-    description: Regional Studies Division, Asia & Pacific Department
+    description: Regional Studies Division, Asia and Pacific Department
 
 - title: Short Term Consultant
     company: The World Bank
