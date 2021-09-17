@@ -35,7 +35,8 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We examine the impact of artificial intelligence on hiring and wages in the service sector using a novel dataset of 15 million vacancy posts from India’s largest jobs website. We first document a rapid rise in demand for AI skills since 2016, particularly in the IT, finance and professional services industries. Vacancies demanding AI skills list substantially higher wages, but require more education and are highly concentrated in the largest firms and a small number of high-tech clusters. Exploiting plausibly exogenous variation in exposure to advances in AI technologies, we then examine the impacts of establishment demand for AI skills as a proxy for AI adoption. We find that growth in AI demand has a direct negative impact on the growth of non-AI and total job posts, and reduces the growth of wage offers across the distribution.
+abstract: We examine the impact of artificial intelligence (AI) on hiring and wages in service sector firms, using a novel dataset of vacancy posts from India’s largest jobs website. We first document a rapid rise in demand for machine learning (ML) skills since 2016, particularly in the IT, finance and professional services industries. Vacancies requiring ML skills list substantially higher wages, but require more education and are highly concentrated both geographically and in the largest firms. Exploiting plausibly exogenous variation in exposure to advances in AI capabilities, we then examine the impacts of establishment demand for ML skills, as a proxy for AI adoption. We find that growth in the demand for ML skills has a direct negative impact on the total number of vacancies posted by incumbent firms. Drawing on rich data on wage offers, we further find that growth in ML demand reduces wage offers for all but the lowest-paid roles.
+
 
 tags: []
 
