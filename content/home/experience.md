@@ -22,6 +22,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Economist Program (EP)
+    company: International Monetary Fund
+    company_url: 'https://www.imf.org/en/Home'
+    location: Washington, D.C. 
+    date_start: '2021-09-13'
+    date_end: ''
+    description: Regional Studies Division, Asia and Pacific Department
+
 - title: Short Term Consultant
     company: The World Bank
     company_url: 'https://www.worldbank.org/en/home'
