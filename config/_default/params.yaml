@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: alexander.copestake@economics.ox.ac.uk
+email: acopestake@imf.org
 # phone: 888 888 88 88
 address:
-  street: Economics Dept., Manor Road Building, Manor Road
-  city: Oxford
+  street: 700 19th Street NW
+  city: Washington, DC
 #  region: 
-  postcode: 'OX1 3UQ'
-  country: United Kingdom
-  country_code: GB
+  postcode: '20431'
+  country: United States
+  country_code: US
 coordinates:
-  latitude: '51.7571'
-  longitude: '-1.2466'
+  latitude: '38.8986'
+  longitude: '77.0443'
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 
 # Site header
