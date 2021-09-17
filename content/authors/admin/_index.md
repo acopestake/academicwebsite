@@ -1,6 +1,6 @@
 ---
 title: Alexander Copestake
-role: DPhil student in Economics
+role: Economist
 bio: My research focusses on international trade, development, automation and
   artificial intelligence.
 interests:
@@ -19,13 +19,13 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/alexander-copestake
 organizations:
-  - name: University of Oxford
-    url: https://www.ox.ac.uk
+  - name: International Monetary Fund
+    url: https://www.imf.org/en/Home
 education:
   courses:
     - course: DPhil in Economics
       institution: University of Oxford
-      year: 2021 (anticipated)
+      year: 2021 (defended)
     - course: MSc in Development Economics
       institution: University of Oxford
       year: 2017
@@ -36,6 +36,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a DPhil (PhD) Candidate in Economics at the University of Oxford. I work on the relationships between technology, trade and development.
 
-In September 2021 I'll be joining the Economist Program at the International Monetary Fund.
+Welcome to my website! I am an Economist at the International Monetary Fund, where I joined the Asia & Pacific Department in September 2021. My research focuses on the relationships between technology, trade and development.
+
+All views expressed on this site are my own and do not necessarily reflect the position of the International Monetary Fund.
