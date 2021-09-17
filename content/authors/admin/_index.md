@@ -25,7 +25,7 @@ education:
   courses:
     - course: DPhil in Economics
       institution: University of Oxford
-      year: 2021 (defended)
+      year: 2021
     - course: MSc in Development Economics
       institution: University of Oxford
       year: 2017
