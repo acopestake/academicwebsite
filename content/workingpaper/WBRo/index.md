@@ -67,4 +67,4 @@ image:
 
 ---
 
-Paper coming soon!
+Published chapter coming soon!
