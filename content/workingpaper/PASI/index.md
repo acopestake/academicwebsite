@@ -1,5 +1,5 @@
 ---
-title: "Multi-product firms, networks and quality-upgrading: Evidence from China in India"
+title: "Inputs, networks and quality-upgrading: Evidence from China in India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -31,7 +31,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: This paper exploits China’s accession to the WTO to investigate the propagation of a supply shock across the Indian production network. Consistent with a model of multi-product manufacturers gaining access to higher-quality components, a fall in input tariffs raises revenue, quality and prices whilst lowering quality-adjusted prices and the probability of product exit. Upgrading persists for at least ten years; at the peak in 2010, products with a 10% higher pre-accession input tariff, and hence a larger post-accession fall in tariffs, have 5.3% higher quality. Broader input-output linkages then amplify this effect by up to 75%, with the first two links down the supply chain most significant. In contrast to existing literature focused on negative demand effects of the ‘China shock’, these results highlight a potential beneficial impact in developing countries, namely supply-driven quality upgrading.
+abstract: This paper exploits China’s accession to the WTO to investigate the propagation of a supply shock across the Indian production network. Consistent with a model of multi-product manufacturers gaining access to higher-quality components, a fall in input tariffs raises revenue, quality and prices whilst lowering quality-adjusted prices and the probability of product exit. Upgrading persists for at least ten years; at the peak in 2010, products with a 10% higher pre-accession input tariff, and hence a larger post-accession fall in tariffs, have 5.3% higher quality. This in turn raises quality further down the supply chain, with input-output linkages amplifying the one-step effect by up to 75%. In contrast to existing literature focused on negative demand effects of the ‘China shock’, these results highlight a potential beneficial impact in developing countries, namely supply-driven quality upgrading.
 
 tags: []
 
