@@ -26,7 +26,6 @@ education:
     - course: DPhil in Economics
       institution: University of Oxford
       year: 2021
-      link: https://copestake.info/uploads/Thesis.pdf
     - course: MSc in Development Economics
       institution: University of Oxford
       year: 2017
