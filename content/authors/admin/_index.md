@@ -23,9 +23,10 @@ organizations:
     url: https://www.imf.org/en/Home
 education:
   courses:
-    - course: [DPhil in Economics](https://copestake.info/uploads/Thesis.pdf)
+    - course: DPhil in Economics
       institution: University of Oxford
       year: 2021
+      link: https://copestake.info/uploads/Thesis.pdf
     - course: MSc in Development Economics
       institution: University of Oxford
       year: 2017
