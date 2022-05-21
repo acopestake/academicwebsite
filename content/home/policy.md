@@ -2,7 +2,6 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-active: false
 
 # This file represents a page section.
 headless: true
@@ -15,17 +14,15 @@ subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: event
+  page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Filter on criteria
   filters:
     author: ""
     category: ""
     tag: ""
     exclude_featured: false
-    exclude_future: false
-    exclude_past: false
     publication_type: ""
   # Choose how many pages you would like to offset by
   offset: 0
@@ -38,5 +35,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 1
 ---
