@@ -12,32 +12,31 @@ weight: 40
 title: 'Policy Work'
 subtitle:
 
-content:
+# content:
   # Page type to display. E.g. post, event, publication...
-  page_type: publication
+  # page_type: publication
   # Choose how many pages you would like to display (0 = all pages)
-  count: 0
+  # count: 0
   # Filter on criteria
-  filters:
-    author: ""
-    category: ""
-    tag: ""
-    exclude_featured: false
-    publication_type: ""
+  # filters:
+  # author: ""
+  #   category: ""
+  #   tag: ""
+  #   exclude_featured: false
+  #   publication_type: ""
   # Choose how many pages you would like to offset by
-  offset: 0
+  # offset: 0
   # Page order: descending (desc) or ascending (asc) date.
-  order: desc
+  # order: desc
 
-design:
+# design:
   # Choose a view for the listings:
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 1
+  # view: 1
 ---
 
-Test
-Test
-https://www.imf.org/external/pubs/ft/fandd/2020/09/rethinking-global-resilience-ian-goldin.htm | Date
+[Malaysia 2022 Article IV Consultation](https://www.imf.org/en/Publications/CR/Issues/2022/04/28/Malaysia-2022-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-517398) | IMF | April 2022
+[Rethinking Global Resilience](https://www.imf.org/external/pubs/ft/fandd/2020/09/rethinking-global-resilience-ian-goldin.htm) | IMF Finance & Development | Fall 2020
