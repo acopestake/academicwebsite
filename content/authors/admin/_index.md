@@ -6,8 +6,8 @@ bio: My research focusses on international trade, development, automation and
 interests:
   - Development economics
   - International trade
-  - Artificial intelligence
-  - Industrial robotics
+  - Robotics & AI
+  - Cryptoassets & CBDC
 social:
   - icon: envelope
     icon_pack: fas
@@ -23,7 +23,7 @@ organizations:
     url: https://www.imf.org/en/Home
 education:
   courses:
-    - course: DPhil in Economics
+    - course: [DPhil in Economics](https://copestake.info/uploads/Thesis.pdf)
       institution: University of Oxford
       year: 2021
     - course: MSc in Development Economics
