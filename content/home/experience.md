@@ -28,7 +28,13 @@ experience:
     location: Washington, D.C. 
     date_start: '2021-09-13'
     date_end: ''
-    description: Regional Studies Division, Asia and Pacific Department
+    description: |2-
+        Regional Studies Division, Asia and Pacific Department
+        
+        Current projects:
+        
+        * The COVID-19 Pandemic, Scarring and Digitalization
+        * Cryptoassets, Regulation & CBDCs: Evidence from Policy Announcements
 
   - title: Short Term Consultant
     company: The World Bank
