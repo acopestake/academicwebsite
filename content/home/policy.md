@@ -44,8 +44,13 @@ subtitle: '& Other Writing'
 
 [Rethinking Global Resilience](https://www.imf.org/external/pubs/ft/fandd/2020/09/rethinking-global-resilience-ian-goldin.htm) | IMF Finance & Development | *Fall 2020*
 
+[Fragility to Strength: Lessons in Building State Resilience from Around the World](https://copestake.info/uploads/otherwriting/reform_final.pdf) | Reform | *October 2020*
+
 [Technology and the Future of Work](https://copestake.info/uploads/otherwriting/technology_and_future_of_work.pdf) | Center for International Cooperation | *September 2020*
 
 [The Just Transition in Energy](https://copestake.info/uploads/otherwriting/the_just_transition_in_energy.pdf) | Center for International Cooperation | *September 2020*
+
+[Multilateralism and the Search for Collective Institutional Leadership and Governance](https://copestake.info/uploads/otherwriting/doc_rhodes_final.pdf) | DOC Rhodes Forum | *August 2020*
+
 
 
