@@ -46,7 +46,7 @@ subtitle: '& Other Writing'
 
 [Fragility to Strength: Lessons in Building State Resilience from Around the World](https://copestake.info/uploads/otherwriting/reform_final.pdf) | Reform | *October 2020*
 
-[Technology and the Future of Work](https://copestake.info/uploads/otherwriting/technology_and_future_of_work.pdf) | Center for International Cooperation | *September 2020*
+[Technology and the Future of Work](https://copestake.info/uploads/otherwriting/technology_and_the_future_of_work.pdf) | Center for International Cooperation | *September 2020*
 
 [The Just Transition in Energy](https://copestake.info/uploads/otherwriting/the_just_transition_in_energy.pdf) | Center for International Cooperation | *September 2020*
 
