@@ -40,9 +40,11 @@ subtitle: '& Other Writing'
 
 [Malaysia 2022 Article IV Consultation](https://www.imf.org/en/Publications/CR/Issues/2022/04/28/Malaysia-2022-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-517398) | IMF | *April 2022*
 
-[Crypto for Dummies](https://copestake.info/uploads/otherwriting/crypto_for_dummies) | Brown Bag Lunch | *December 2021*
+[Crypto for Dummies](https://copestake.info/uploads/otherwriting/crypto_for_dummies.pdf) | Brown Bag Lunch | *December 2021*
 
 [Rescue: From Global Crisis To A Better World](https://www.hachette.co.uk/titles/ian-goldin/rescue/9781529366884/?v2=true) | Ian Goldin | *May 2021*
+
+[Strange New World: Globalization, AI and Development](https://copestake.info/uploads/otherwriting/strange_new_world.pdf) | Oxford Global Exchanges | *August 2021*
 
 [Rethinking Global Resilience](https://www.imf.org/external/pubs/ft/fandd/2020/09/rethinking-global-resilience-ian-goldin.htm) | IMF Finance & Development | *Fall 2020*
 
