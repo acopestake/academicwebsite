@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Policy Work'
+title: 'Policy Writing'
 subtitle:
 
 # content:
@@ -38,8 +38,12 @@ subtitle:
   # view: 1
 ---
 
-[Malaysia 2022 Article IV Consultation](https://www.imf.org/en/Publications/CR/Issues/2022/04/28/Malaysia-2022-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-517398) | IMF | April 2022
+[Malaysia 2022 Article IV Consultation](https://www.imf.org/en/Publications/CR/Issues/2022/04/28/Malaysia-2022-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-517398) | IMF | *April 2022*
 
-[Rescue: From Global Crisis To A Better World](https://www.hachette.co.uk/titles/ian-goldin/rescue/9781529366884/?v2=true) | Ian Goldin | May 2021
+[Rescue: From Global Crisis To A Better World](https://www.hachette.co.uk/titles/ian-goldin/rescue/9781529366884/?v2=true) | Ian Goldin | *May 2021*
 
-[Rethinking Global Resilience](https://www.imf.org/external/pubs/ft/fandd/2020/09/rethinking-global-resilience-ian-goldin.htm) | IMF Finance & Development | Fall 2020
+[Rethinking Global Resilience](https://www.imf.org/external/pubs/ft/fandd/2020/09/rethinking-global-resilience-ian-goldin.htm) | IMF Finance & Development | *Fall 2020*
+
+[Technology and the Future of Work](https://copestake.info/uploads/otherwriting/technology_and_future_of_work.pdf) | Center for International Cooperation | *September 2020*
+
+
