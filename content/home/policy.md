@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: 'Policy Writing'
-subtitle:
+title: 'Policy Work'
+subtitle: '& Other Writing'
 
 # content:
   # Page type to display. E.g. post, event, publication...
