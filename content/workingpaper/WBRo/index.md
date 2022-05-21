@@ -47,7 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 
 links:
- - name: in Grossman & Ing, forthcoming
+ - name: Book
    url: https://www.routledge.com/Robots-and-AI-A-New-Economic-Era/Ing-Grossman/p/book/9781032230665
 
 url_pdf: ''
