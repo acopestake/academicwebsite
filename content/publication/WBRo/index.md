@@ -34,7 +34,7 @@ publishDate: "2022-05-06T00:00:00Z"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: '"Robots and AI: a New Economic Era” (eds. Lili Yan Ing and Gene M. Grossman), Oxon and New York: Routledge, 2022.'
+publication: '"Robots and AI: A New Economic Era” (eds. Lili Yan Ing and Gene M. Grossman), Oxon and New York: Routledge, 2022.'
 publication_short: 
 
 abstract: We examine the effects of robotization on developing countries, using a Ricardian framework and new firm-level robotization data from eleven developing countries. We find that robot adoption in advanced economies can benefit workers in developing countries through lower prices and increased demand for inputs – though with potential adverse effects in the transition, particularly for the least mobile workers. Continued Chinese subsidization of robots is likely to reduce China’s trade with OECD countries, while increasing that with developing countries – as China’s profile of comparative advantage increasingly aligns with the former. Larger and more globally-connected firms in developing countries are more likely to adopt robots, as they can afford the fixed costs of upgrading and value the resulting precision more highly. These firms expand post-adoption, increasing the competitive pressure on the smaller, less international firms in which those workers most vulnerable to replacement by robots are also more likely to work.
