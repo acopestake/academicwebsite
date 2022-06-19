@@ -48,7 +48,9 @@ featured: false
 links:
 - name: Link
   url: https://www.taylorfrancis.com/books/oa-edit/10.4324/9781003275534/robots-ai-lili-yan-ing-gene-grossman
-
+- name: Chapter
+  url: https://copestake.info/publication/wbro/WBRO.pdf
+  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
