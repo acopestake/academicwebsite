@@ -29,12 +29,15 @@ experience:
     date_start: '2021-09-13'
     date_end: ''
     description: |2-
-        Regional Studies Division, Asia and Pacific Department
+        Regional Studies Division & Malaysia Team, Asia and Pacific Department
         
-        Current projects:
+        Current analytical projects:
         
         * The COVID-19 Pandemic, Scarring and Digitalization
+        * The Crypto Cycle and US Monetary Policy
         * Cryptoassets, Regulation & CBDCs: Evidence from Policy Announcements
+        * Geo-Economic Fragmentation
+        * Supply & Demand Drivers of Inflation
 
   - title: Short Term Consultant
     company: The World Bank
