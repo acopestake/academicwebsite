@@ -33,7 +33,7 @@ experience:
         
         Current analytical projects:
         
-        * The COVID-19 Pandemic, Scarring and Digitalization
+        * The COVID-19 Pandemic, Digitalization and Resilience
         * The Crypto Cycle and US Monetary Policy
         * Cryptoassets, Regulation & CBDCs: Evidence from Policy Announcements
         * Geo-Economic Fragmentation
