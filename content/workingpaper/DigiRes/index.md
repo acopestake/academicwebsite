@@ -70,3 +70,5 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: ""
 ---
+
+Draft available via email 
