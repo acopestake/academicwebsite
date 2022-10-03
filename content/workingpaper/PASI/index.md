@@ -69,4 +69,4 @@ image:
 # slides: PASI
 ---
 
-Submitted
+Revised & resubmitted
