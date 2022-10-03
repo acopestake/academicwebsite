@@ -6,6 +6,7 @@ title: "Inputs, networks and quality-upgrading: Evidence from China in India"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Wenzhang Zhang
 
 # Hide author info and social sharing links in page
 profile: false
@@ -14,6 +15,7 @@ share: false
 # Author notes (optional)
 author_notes:
 - ""
+- "University of Oxford"
 
 date: "2020-12-28T00:00:00Z"
 doi: ""
