@@ -73,4 +73,4 @@ image:
 # slides: ""
 ---
 
-Draft available soon!
+Draft available via email 
