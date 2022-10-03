@@ -1,13 +1,14 @@
 ---
-title: "Digitalization and Resilience"
+title: "The Crypto Cycle and US Monetary Policy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Julia Estefania-Flores
+- Natasha Che
 - Davide Furceri
+- Tammaro Terracciano
 
 # Hide author info and social sharing links in page
 profile: false
@@ -18,8 +19,9 @@ author_notes:
 - ""
 - "International Monetary Fund"
 - "International Monetary Fund"
+- "University of Geneva & Harvard University"
 
-date: "2020-12-28T00:00:00Z"
+date: "2022-08-17T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +37,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: This paper exploits China’s accession to the WTO to investigate the propagation of a supply shock across the Indian production network. Consistent with a model of multi-product manufacturers gaining access to higher-quality components, a fall in input tariffs raises revenue, quality and prices whilst lowering quality-adjusted prices and the probability of product exit. Upgrading persists for at least ten years; at the peak in 2010, products with a 10% higher pre-accession input tariff, and hence a larger post-accession fall in tariffs, have 5.3% higher quality. This in turn raises quality further down the supply chain, with input-output linkages amplifying the one-step effect by up to 75%. These results highlight a potential beneficial impact of the ‘China shock’ in developing countries, namely supply-driven quality upgrading.
+abstract: This paper studies variation in crypto markets globally, their interaction with equity markets, and their response to US monetary policy. We first identify a single “crypto factor” that explains 80% of variation in crypto prices. Second, we show that the increasing correlation between crypto and global equity markets can be explained by the entry of institutional investors into crypto markets. Third, we find that a monetary contraction reduces the crypto factor, and by substantially more than for global equities, possibly due to the increased cost of leverage reducing the risk appetite of the marginal investor. We formalize our findings in a model with heterogeneous agents and time-varying aggregate effective risk aversion.
 
 tags: []
 
@@ -52,7 +54,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'slides.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -68,5 +70,5 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: PASI
+# slides: ""
 ---
