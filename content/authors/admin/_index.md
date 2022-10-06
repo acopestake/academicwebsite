@@ -39,4 +39,4 @@ highlight_name: false
 
 I am an Economist at the International Monetary Fund, where I joined the Asia & Pacific Department in September 2021. My research focuses on the relationships between technology, trade and development.
 
-Disclaimer: All views expressed on this site are my own and do not necessarily reflect the position of the IMF.
+*Disclaimer: All views expressed on this site are my own and do not necessarily reflect the position of the IMF.*
