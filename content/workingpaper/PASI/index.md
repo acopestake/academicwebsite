@@ -1,5 +1,5 @@
 ---
-title: "Inputs, networks and quality-upgrading: Evidence from China in India"
+title: "Inputs, Networks and Quality-Upgrading: Evidence from China in India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
