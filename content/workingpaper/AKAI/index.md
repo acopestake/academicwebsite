@@ -1,5 +1,5 @@
 ---
-title: "AI, firms and wages: Evidence from India"
+title: "AI, Firms and Wages: Evidence from India"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
