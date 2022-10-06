@@ -1,5 +1,5 @@
 ---
-title: "Robots and trade: Implications for developing countries"
+title: "Robots and Trade: Implications for Developing Countries"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
