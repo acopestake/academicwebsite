@@ -38,6 +38,10 @@ subtitle: '& Other Writing'
   # view: 1
 ---
 
+Chapter 2 | [IMF Asia and Pacific Regional Economic Outlook](https://www.imf.org/en/Publications/REO/APAC) | *Coming soon!* 
+
+Chapter 3 | [IMF Asia and Pacific Regional Economic Outlook](https://www.imf.org/en/Publications/REO/APAC) | *Coming soon!* 
+
 [Malaysia 2022 Article IV Consultation](https://www.imf.org/en/Publications/CR/Issues/2022/04/28/Malaysia-2022-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-517398) | IMF | *April 2022*
 
 [Crypto for Dummies](https://copestake.info/uploads/otherwriting/crypto_for_dummies.pdf) | Brown Bag Lunch | *December 2021*
