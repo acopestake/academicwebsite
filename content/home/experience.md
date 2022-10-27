@@ -38,6 +38,7 @@ experience:
         * Cryptoassets, Regulation & CBDCs: Evidence from Policy Announcements
         * Geo-Economic Fragmentation
         * Supply & Demand Drivers of Inflation
+        * Malaysia GDP Nowcasting
 
   - title: Short Term Consultant
     company: The World Bank
