@@ -38,9 +38,9 @@ subtitle: '& Other Writing'
   # view: 1
 ---
 
-[Post-COVID Scarring in Asia](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022#Chapter-2:-Medium-Term-Output-Losses-after-COVID-19-in-Asia:-The-Role-of-Corporate-Debt-and-Digitalization) | [IMF Regional Economic Outlook](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022) | *October 2022* 
-
 [Geoeconomic Fragmentation and Asia](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022#Chapter-3:-Asia-and-the-Growing-Risk-of-Geoeconomic-Fragmentation) | [IMF Regional Economic Outlook](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022) | *October 2022* 
+
+[Post-COVID Scarring in Asia](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022#Chapter-2:-Medium-Term-Output-Losses-after-COVID-19-in-Asia:-The-Role-of-Corporate-Debt-and-Digitalization) | [IMF Regional Economic Outlook](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022) | *October 2022* 
 
 [Malaysia 2022 Article IV Consultation](https://www.imf.org/en/Publications/CR/Issues/2022/04/28/Malaysia-2022-Article-IV-Consultation-Press-Release-Staff-Report-and-Statement-by-the-517398) | IMF | *April 2022*
 
