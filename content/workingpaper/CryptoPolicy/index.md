@@ -72,4 +72,4 @@ image:
 # slides: ""
 ---
 
-Submitted. Draft available via email 
+Submitted.
