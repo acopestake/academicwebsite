@@ -44,9 +44,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957858
 
 url_pdf: ''
 url_code: ''
