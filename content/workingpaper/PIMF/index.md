@@ -44,6 +44,8 @@ featured: false
 links:
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2021/03/05/The-Role-of-Market-Structure-and-Timing-in-Determining-VAT-Pass-Through-50113
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4207882
 
 url_pdf: ''
 url_code: ''
