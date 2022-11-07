@@ -47,6 +47,10 @@ featured: false
 links:
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248598
+- name: Data on Bans
+  url: https://copestake.info/uploads/bandates.csv
+- name: Data on Speeches
+  url: https://copestake.info/uploads/speechdates.csv
 
 url_pdf: ''
 url_code: ''
