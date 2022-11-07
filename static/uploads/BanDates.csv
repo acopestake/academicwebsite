@@ -1,0 +1,61 @@
+﻿Country,ISO-2,Date,Date announced,Ban type
+Algeria,DZ,12/27/2017,10/27/2017,absolute
+Bangladesh,BD,9/15/2014,9/15/2014,implicit
+Bangladesh,BD,12/24/2017,12/24/2017,absolute
+Bangladesh,BD,7/29/2021,7/29/2021,implicit
+China,CN,9/15/2017,9/4/2017,implicit
+China,CN,9/15/2021,5/21/2021,absolute
+Egypt,EG,12/28/2017,12/28/2017,implicit
+Egypt,EG,1/10/2018,1/10/2018,implicit
+Egypt,EG,9/15/2020,9/15/2020,absolute
+Iraq,IQ,12/3/2017,12/3/2017,absolute
+Morocco,MA,11/20/2017,11/20/2017,absolute
+Nepal,NP,8/13/2017,8/13/2017,implicit
+Nepal,NP,9/9/2021,9/9/2021,absolute
+Qatar,QA,2/7/2018,2/7/2018,implicit
+Qatar,QA,6/7/2020,6/7/2020,absolute
+Bahrain,BH,1/7/2018,1/7/2018,implicit
+Benin,BJ,3/1/2018,3/1/2018,implicit
+Benin,BJ,6/11/2018,6/11/2018,implicit
+Bolivia,BO,6/5/2014,6/5/2014,implicit
+Bolivia,BO,12/15/2020,12/15/2020,implicit
+Bolivia,BO,5/17/2021,5/17/2021,implicit
+Burkina Faso,BF,6/11/2018,6/11/2018,implicit
+Burundi,BI,9/2/2019,9/2/2019,implicit
+Cameroon,CM,10/23/2020,10/23/2020,implicit
+Central African Republic,CF,10/23/2020,10/23/2020,implicit
+Chad,TD,10/23/2020,10/23/2020,implicit
+Congo,CG,10/23/2020,10/23/2020,implicit
+Cote D'Ivoire,CI,6/11/2018,6/11/2018,implicit
+Democratic Republic Of Congo,CD,7/7/2020,7/7/2020,implicit
+Ecuador,EC,1/8/2018,1/8/2018,implicit
+Gabon,GA,10/23/2020,10/23/2020,implicit
+Georgia,GE,6/28/2019,6/28/2019,implicit
+Indonesia,ID,12/7/2017,12/7/2017,implicit
+Jordan,JO,2/22/2014,2/22/2014,implicit
+Kazakhstan,KZ,6/25/2020,6/25/2020,implicit
+Kuwait,KW,12/18/2017,12/18/2017,implicit
+Kuwait,KW,1/18/2018,1/18/2018,implicit
+Lebanon,LB,12/19/2013,12/19/2013,implicit
+Lesotho,LS,2/7/2018,2/7/2018,implicit
+Libya,LY,5/15/2021,5/15/2021,implicit
+Macao,MO,9/27/2017,9/27/2017,implicit
+Maldives,MV,10/11/2018,10/11/2018,implicit
+Mali,ML,6/11/2018,6/11/2018,implicit
+Moldova,MD,2/15/2018,2/15/2018,implicit
+Namibia,NA,5/2/2018,5/2/2018,implicit
+Niger,NE,6/11/2018,6/11/2018,implicit
+Nigeria,NG,2/5/2021,1/12/2017,implicit
+Oman,OM,12/12/2017,12/12/2017,implicit
+Pakistan,PK,4/18/2018,1/13/2018,implicit
+Palau,PW,3/19/2019,3/19/2019,implicit
+Saudi Arabia,SA,7/4/2017,7/4/2017,implicit
+Senegal,SN,6/11/2018,6/11/2018,implicit
+Tajikistan,TJ,3/19/2021,3/19/2021,implicit
+Tanzania,TZ,11/12/2019,11/12/2019,implicit
+Togo,TG,6/11/2018,6/11/2018,implicit
+Turkey,TR,4/30/2021,4/16/2021,implicit
+Turkmenistan,TM,3/19/2021,3/19/2021,implicit
+United Arab Emirates,AE,12/6/2020,12/6/2020,implicit
+Vietnam,VN,7/21/2017,7/21/2017,implicit
+Zimbabwe,ZW,5/8/2018,5/8/2018,implicit
