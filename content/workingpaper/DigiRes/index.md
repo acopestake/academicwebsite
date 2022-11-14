@@ -35,7 +35,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We investigate the role of digitialization in mitigating post-recession scarring. Using balance sheet data from 24,000 firms in 75 countries, we find that firms in industries that are one standard deviation more digitalized than average experience 2% less scarring across recessions since 2001. Early data since the outbreak of the COVID-19 pandemic suggest an even larger mitigation effect during the resulting recessions. Using information from LinkedIn profiles, we also find that more digitalized industries experienced 4% higher hiring rates and higher net inflows. These results are robust across a wide range of digitalization measures – drawing on ICT input and employment shares, robot usage, online sales, intangible assets and digital skills listed on online profiles – and several alternative specifications.
+abstract: We investigate the role of digitalization in mitigating post-recession scarring. Using balance sheet data from 24,000 firms in 75 countries, we find that firms in industries that are one standard deviation more digitalized than average experience 2% less scarring across recessions since 2001. Early data since the outbreak of the COVID-19 pandemic suggest an even larger mitigation effect during the resulting recessions. Using information from LinkedIn profiles, we also find that more digitalized industries experienced 4% higher hiring rates and higher net inflows. These results are robust across a wide range of digitalization measures – drawing on ICT input and employment shares, robot usage, online sales, intangible assets and digital skills listed on online profiles – and several alternative specifications.
 
 tags: []
 
