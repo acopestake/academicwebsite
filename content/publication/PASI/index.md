@@ -41,9 +41,9 @@ tags: []
 featured: false
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: Link
+  url: https://www.sciencedirect.com/science/article/pii/S1043951X22001493?via%3Dihub
 
 url_pdf: ''
 url_code: ''
@@ -69,4 +69,3 @@ image:
 # slides: PASI
 ---
 
-(Final published version coming soon!)
