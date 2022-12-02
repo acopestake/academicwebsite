@@ -1,5 +1,5 @@
 ---
-title: "Crypto Market Responses to Digital Asset Policy"
+title: "Crypto Market Responses to Digital Asset Policies"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
