@@ -46,6 +46,8 @@ featured: false
 links:
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2022/10/28/Digitalization-and-Resilience-525207
+- name: SSRN
+  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4272246
 
 url_pdf: ''
 url_code: ''
