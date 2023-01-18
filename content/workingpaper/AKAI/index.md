@@ -1,5 +1,5 @@
 ---
-title: "AI, Firms and Wages: Evidence from India"
+title: "AI and Services-Led Growth: Evidence from Indian Job Adverts"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -8,6 +8,7 @@ authors:
 - admin
 - Ashley Pople
 - Katherine Stapleton
+- Max Marczinek
 
 # Hide author info and social sharing links in page
 profile: false
@@ -18,6 +19,7 @@ author_notes:
 - ""
 - "University of Oxford"
 - "World Bank"
+- "University of Oxford"
 
 date: "2021-05-31T00:00:00Z"
 doi: ""
@@ -35,8 +37,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We examine the impact of artificial intelligence (AI) on hiring and wages in service sector firms, using a novel dataset of vacancy posts from India’s largest jobs website. We first document a rapid rise in demand for machine learning (ML) skills since 2016, particularly in the IT, finance and professional services industries. Vacancies requiring ML skills list substantially higher wages, but require more education and are highly concentrated both geographically and in the largest firms. Exploiting plausibly exogenous variation in exposure to advances in AI capabilities, we then examine the impacts of establishment demand for ML skills, as a proxy for AI adoption. We find that growth in the demand for ML skills has a direct negative impact on the total number of vacancies posted by incumbent firms. Drawing on rich data on wage offers, we further find that growth in ML demand reduces wage offers for all but the lowest-paid roles.
-
+abstract: We document near-exponential growth in demand for artificial intelligence (AI)-related skills in India’s white-collar services sector since 2016, using a new dataset of online vacancies from India’s largest jobs website. We evaluate the impact of establishment-level demand for AI skills on the posting of non-AI positions in both the short term, using an event-study setup, and over the medium-term, using a shift-share design that exploits variation in exposure to new AI inventions. We find negative impacts of AI demand on posting of job adverts for non-AI positions and on non-AI wage offers. The effects are most pronounced in high-skilled, managerial and professional occupations, and for non-routine work, particularly complex analytical and communication tasks.
 
 tags: []
 
