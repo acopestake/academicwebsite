@@ -37,7 +37,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We document near-exponential growth in demand for artificial intelligence (AI)-related skills in India’s white-collar services sector since 2016, using a new dataset of online vacancies from India’s largest jobs website. We evaluate the impact of establishment-level demand for AI skills on the posting of non-AI positions in both the short term, using an event-study setup, and over the medium-term, using a shift-share design that exploits variation in exposure to new AI inventions. We find negative impacts of AI demand on posting of job adverts for non-AI positions and on non-AI wage offers. The effects are most pronounced in high-skilled, managerial and professional occupations, and for non-routine work, particularly complex analytical and communication tasks.
+abstract: We document near-exponential growth in the demand for artificial intelligence (AI)-related skills in India’s services sector since 2016, using a new dataset of online vacancies from its largest jobs website. This coincides with the take-off in developed countries, and is driven by the largest firms and high-tech clusters. We evaluate the impact of demand for AI skills on establishment-level non-AI postings, using a shift-share design that exploits variation in exposure to new AI inventions. We find negative effects on posting volumes and wage offers, particularly for highly skilled managerial and professional occupations, non-routine work, and analytical and communication tasks.
 
 tags: []
 
