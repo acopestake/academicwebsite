@@ -48,6 +48,8 @@ featured: false
 links:
 - name: SSRN
   url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3957858
+- name: STEG Working Paper
+  url: https://steg.cepr.org/publications/ai-and-services-led-growth-evidence-indian-job-adverts
 
 url_pdf: ''
 url_code: ''
