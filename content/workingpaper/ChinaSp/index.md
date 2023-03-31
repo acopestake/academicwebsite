@@ -36,7 +36,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We estimate the impact of distinct types of slowdowns in China on countries and firms globally. First, we combine a structural vector autoregression framework with a broad-based measure of domestic economic activity in China to distinguish supply versus demand components of Chinese growth. We then use local projection models to assess the responses to such shocks of GDP growth (revenue) in other countries (firms). We find that: (i) both supply and demand slowdowns are associated with substantial declines in partner GDP and firm revenue; (ii) negative spillovers are larger in countries and firms with stronger trade links with China; and (iii) spillovers from supply shocks are stronger for aggregate GDP, while spillovers from demand shocks are stronger at the firm level.
+abstract: We estimate the impact of distinct types of slowdowns in China on countries and firms globally. First, we combine a structural vector autoregression framework with a broad-based measure of domestic economic activity in China to distinguish supply versus demand components of Chinese growth. We then use local projection models to assess the responses to such shocks of GDP growth (revenue) in other countries (firms). We find that: (i) both supply and demand slowdowns are associated with substantial declines in partner GDP and firm revenue; (ii) negative spillovers are larger in countries and firms with stronger trade links with China; and (iii) spillovers from supply shocks are stronger for aggregate GDP, while spillovers from demand shocks are stronger at the firm level. 
 
 tags: []
 
