@@ -16,6 +16,7 @@ share: false
 
 # Author notes (optional)
 author_notes:
+- ""
 - "International Monetary Fund"
 - "International Monetary Fund"
 - "International Monetary Fund"
