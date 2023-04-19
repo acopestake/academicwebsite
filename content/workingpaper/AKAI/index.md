@@ -51,7 +51,7 @@ links:
 - name: STEG Working Paper
   url: https://steg.cepr.org/publications/ai-and-services-led-growth-evidence-indian-job-adverts
 - name: Ideas for India
-- url: https://www.ideasforindia.in/topics/productivity-innovation/ai-and-services-led-growth-evidence-from-indian-job-adverts.html
+  url: https://www.ideasforindia.in/topics/productivity-innovation/ai-and-services-led-growth-evidence-from-indian-job-adverts.html
 
 url_pdf: ''
 url_code: ''
