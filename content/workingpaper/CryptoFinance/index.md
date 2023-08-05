@@ -47,7 +47,7 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: IMF Working Paper
-  url: https://www.imf.org/en/Publications/WP/Issues/2022/10/28/Digitalization-and-Resilience-525207
+  url: https://www.imf.org/en/Publications/WP/Issues/2023/08/04/The-Crypto-Cycle-and-US-Monetary-Policy-534834
 
 url_pdf: ''
 url_code: ''
