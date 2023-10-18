@@ -37,7 +37,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We estimate the impact of distinct types of slowdowns in China on countries and firms globally. 
+abstract: We estimate the impact of distinct types of slowdowns in China on countries and firms globally. First, we combine a structural vector autoregression framework with a broad-based measure of domestic economic activity in China to distinguish supply versus demand components of Chinese growth. 
 
 tags: []
 
