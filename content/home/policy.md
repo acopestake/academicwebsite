@@ -37,6 +37,11 @@ subtitle: '& Other Writing'
   #   4 = Citation (publication only)
   # view: 1
 ---
+
+[Banks' Joint Exposure to Market and Run Risk](https://www.imf.org/-/media/Files/Publications/WP/2023/English/wpiea2023200-print-pdf.ashx) | [IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2023/09/23/Banks-Joint-Exposure-to-Market-and-Run-Risk-539390) | *September 2023*
+
+[Recovery Unabated Amid Uncertainty](https://www.imf.org/-/media/Files/Publications/REO/APD/2023/April/English/text.ashx) | [IMF Regional Economic Outlook](https://www.imf.org/en/Publications/REO/APAC/Issues/2023/04/11/regional-economic-outlook-for-asia-and-pacific-april-2023) | *May 2023* 
+
 [Malaysia 2023 Article IV Consultation](https://www.imf.org/en/Publications/CR/Issues/2023/05/31/Malaysia-2023-Article-IV-Consultation-Press-Release-and-Staff-Report-533968) | IMF | *June 2023*
 
 [Geoeconomic Fragmentation and Asia](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022#Chapter-3:-Asia-and-the-Growing-Risk-of-Geoeconomic-Fragmentation) | [IMF Regional Economic Outlook](https://www.imf.org/en/Publications/REO/APAC/Issues/2022/10/13/regional-economic-outlook-for-asia-and-pacific-october-2022) | *October 2022* 
