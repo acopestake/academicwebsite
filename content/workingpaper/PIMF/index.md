@@ -33,7 +33,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We examine the role of market characteristics and timing in explaining observed heterogeneity in VAT pass-through. We first extend existing theory to characterize the roles of imperfect competition and product differentiation, then investigate these relationships empirically using a panel of 14 Eurozone countries between 1999 and 2013. We find important roles for product market regulation and product quality, and little impact of advance announcement of reforms. Our findings have important implications for policy-makers considering VAT rate adjustments, by illuminating which of the consumers or the producers would experience the brunt of a reform across different settings.
+abstract: "We investigate the substantial variation in the extent to which a rise in value-added tax (VAT) is passed on to consumers. We first extend existing theory to characterize the roles of imperfect competition and product differentiation, then investigate these relationships empirically using a panel of 14 Eurozone countries between 1999 and 2013. We find that consumers pay a larger share of VAT increases when producers face more competitive upstream markets: the higher tax reduces final demand, but this lower demand does not in turn reduce input prices as much when upstream markets are competitive. Greater scope for quality differentiation also increases pass-through, by reducing the relative price elasticity of demand."
 
 tags: []
 
