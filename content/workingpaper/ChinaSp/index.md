@@ -65,6 +65,4 @@ image:
   focal_point: ""
   preview_only: false
 
----
 
-Draft available via email 
