@@ -50,7 +50,9 @@ links:
   url: https://www.imf.org/en/Publications/WP/Issues/2023/08/04/The-Crypto-Cycle-and-US-Monetary-Policy-534834
 - name: Econbrowser
   url: https://econbrowser.com/archives/2023/08/guest-contribution-the-crypto-cycle-and-us-monetary-policy
-
+- name: The FinReg Blog
+  url: https://sites.duke.edu/thefinregblog/2023/10/23/the-crypto-cycle-and-us-monetary-policy/
+  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
