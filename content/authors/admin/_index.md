@@ -4,8 +4,8 @@ role: Economist
 bio: My research focusses on international trade, development, automation and
   artificial intelligence.
 interests:
-  - Trade & development
-  - Robotics & AI
+  - Trade and development
+  - Robotics and AI
   - Digital money
 social:
   - icon: envelope
