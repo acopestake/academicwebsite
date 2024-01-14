@@ -29,13 +29,13 @@ publishDate: "2020-12-28T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: 
+publication: Research Policy
 publication_short: 
 
-abstract: We investigate the role of digitalization in mitigating post-recession scarring. Using balance sheet data from 24,000 firms in 75 countries, we find that firms in industries that are one standard deviation more digitalized than average experience 2% less scarring across recessions since 2001. Early data since the outbreak of the COVID-19 pandemic suggest an even larger mitigation effect during the resulting recessions. Using information from LinkedIn profiles, we also find that more digitalized industries experienced 4% higher hiring rates and higher net inflows. These results are robust across a wide range of digitalization measures – drawing on ICT input and employment shares, robot usage, online sales, intangible assets and digital skills listed on online profiles – and several alternative specifications.
+abstract: This paper investigates the role of digitalization in improving economic resilience. Using balance sheet data from 24,000 firms in 75 countries, and a difference-in-differences approach, we find that firms in industries that are more digitalized experience lower revenue losses following recessions. Early data since the outbreak of the COVID-19 pandemic suggest an even larger effect during the resulting recessions. These results are robust across a wide range of digitalization measures—such as ICT input and employment shares, robot usage, online sales, intangible assets and digital skills listed on online profiles—and several alternative specifications.
 
 tags: []
 
@@ -44,10 +44,10 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
+- name: Link
+  url: https://www.sciencedirect.com/science/article/pii/S0048733323002329
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2022/10/28/Digitalization-and-Resilience-525207
-- name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4272246
 
 url_pdf: ''
 url_code: ''
