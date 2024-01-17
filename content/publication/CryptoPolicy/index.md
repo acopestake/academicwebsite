@@ -47,8 +47,6 @@ featured: false
 links:
 - name: Link
   url: https://www.sciencedirect.com/science/article/pii/S0165176522004232
-- name: SSRN
-  url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4248598
 - name: Data on Bans
   url: https://copestake.info/uploads/bandates.csv
 - name: Data on Speeches
