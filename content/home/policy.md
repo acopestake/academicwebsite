@@ -38,6 +38,8 @@ subtitle: '& Other Writing'
   # view: 1
 ---
 
+[AI and Services-Led Growth](https://www.imf.org/-/media/Files/Research/research-perspective/2024/050124.ashx) | [IMF Research Perspectives](https://www.imf.org/en/Research/research-perspectives) | *May 2024*
+
 [Macro-Financial Impacts of Foreign Digital Money](https://www.imf.org/-/media/Files/Publications/WP/2023/English/wpiea2023249-print-pdf.ashx) | [IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2023/12/05/Macro-Financial-Impacts-of-Foreign-Digital-Money-542034) and [Fintech Note](https://www.imf.org/en/Publications/fintech-notes/Issues/2023/12/05/Macro-Financial-Implications-of-Foreign-Crypto-Assets-for-Small-Developing-Economies-541440) | *December 2023*
 
 [Banks' Joint Exposure to Market and Run Risk](https://www.imf.org/-/media/Files/Publications/WP/2023/English/wpiea2023200-print-pdf.ashx) | [IMF Working Paper](https://www.imf.org/en/Publications/WP/Issues/2023/09/23/Banks-Joint-Exposure-to-Market-and-Run-Risk-539390) | *September 2023*
