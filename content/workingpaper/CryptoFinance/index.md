@@ -1,5 +1,5 @@
 ---
-title: The Crypto Cycle and Institutional Investors
+title: "The Crypto Cycle and Institutional Investors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -35,7 +35,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: "We study the role of institutional investors in crypto markets and in the transmission of US monetary policy. We find that the participation of institutional investors in crypto markets drives the correlation between crypto and global equity markets, as large investors holding both types of assets create a direct link between the two. We also document that US monetary policy significantly affects the crypto cycle, but only when the participation of institutional investors is high enough. Finally, we show that a heterogeneous-agent model with time-varying aggregate risk aversion can rationalize our empirical findings."
+abstract: We study the role of institutional investors in crypto markets and in the transmission of US monetary policy. We find that the participation of institutional investors in crypto markets drives the correlation between crypto and global equity markets, as large investors holding both types of assets create a direct link between the two. We also document that US monetary policy significantly affects the crypto cycle, but only when the participation of institutional investors is high enough. Finally, we show that a heterogeneous-agent model with time-varying aggregate risk aversion can rationalize our empirical findings.
 
 tags: []
 
