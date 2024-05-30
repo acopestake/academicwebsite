@@ -1,5 +1,5 @@
 ---
-title: "The Crypto Cycle and Institutional Investors"
+title: The Crypto Cycle and Institutional Investors
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
