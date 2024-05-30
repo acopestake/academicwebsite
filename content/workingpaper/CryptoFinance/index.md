@@ -1,12 +1,11 @@
 ---
-title: "The Crypto Cycle and US Monetary Policy"
+title: "The Crypto Cycle and Institutional Investors"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Natasha Che
 - Davide Furceri
 - Tammaro Terracciano
 
@@ -18,10 +17,9 @@ share: false
 author_notes:
 - ""
 - "International Monetary Fund"
-- "International Monetary Fund"
-- "University of Geneva & Harvard University"
+- "IESE Business School"
 
-date: "2022-08-17T00:00:00Z"
+date: "2024-05-30T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +35,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: This paper studies variation in crypto markets globally, their interaction with equity markets, and their response to US monetary policy. We first identify a single “crypto factor” that explains 80% of variation in crypto prices. Second, we show that the increasing correlation between crypto and global equity markets can be explained by the entry of institutional investors into crypto markets. Third, we find that a monetary contraction reduces the crypto factor, and by substantially more than for global equities, possibly due to the increased cost of leverage reducing the risk appetite of the marginal investor. We formalize our findings in a model with heterogeneous agents and time-varying aggregate effective risk aversion.
+abstract: We study the role of institutional investors in crypto markets and in the transmission of US monetary policy. We find that the participation of institutional investors in crypto markets drives the correlation between crypto and global equity markets, as large investors holding both types of assets create a direct link between the two. We also document that US monetary policy significantly affects the crypto cycle, but only when the participation of institutional investors is high enough. Finally, we show that a heterogeneous-agent model with time-varying aggregate risk aversion can rationalize our empirical findings.
 
 tags: []
 
@@ -71,4 +69,3 @@ image:
 
 ---
 
-Draft available via email 
