@@ -37,7 +37,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We document near-exponential growth in the demand for artificial intelligence (AI)-related skills in India’s services sector from 2015, using a new dataset of online vacancies from its largest jobs website. We evaluate the impact of demand for AI skills on establishment-level non-AI postings, using a shift-share design that exploits variation in exposure to new AI inventions. We find that AI adoption significantly reduces growth in non-AI posting volumes and wage offers, particularly for highly skilled managerial and professional occupations, non-routine work, and analytical and communication tasks.
+abstract: We document near-exponential growth in the demand for artificial intelligence (AI)-related skills in India’s services sector from 2015, using a new dataset of online vacancies from its largest jobs website. We evaluate the impact of demand for AI skills on establishment-level non-AI postings, using a shift-share design that exploits variation in exposure to new AI inventions. We find that AI adoption significantly reduces growth in non-AI posting volumes and wage offers, particularly for highly skilled managerial and professional occupations, non-routine work, and analytical and communication tasks.
 
 tags: []
 
