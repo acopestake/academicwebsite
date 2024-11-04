@@ -17,7 +17,7 @@ share: false
 # Author notes (optional)
 author_notes:
 - ""
-- "University of Oxford"
+- "World Bank"
 - "World Bank"
 - "University of Oxford"
 
