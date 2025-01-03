@@ -39,6 +39,7 @@ experience:
     date_end: '2024-09-12'
     description: |2-
         Macro-Financial Division, Research Department
+    
         Regional Studies Division & Malaysia Team, Asia and Pacific Department
 
   - title: Short Term Consultant
