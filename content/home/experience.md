@@ -36,7 +36,7 @@ experience:
     company_url: 'https://www.imf.org/en/Home'
     location: Washington, D.C. 
     date_start: '2021-09-13'
-    date_end: ''
+    date_end: '2024-09-12'
     description: |2-
         Macro-Financial Division, Research Department
         
