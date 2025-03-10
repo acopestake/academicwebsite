@@ -46,6 +46,10 @@ featured: false
 links:
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2023/08/04/The-Crypto-Cycle-and-US-Monetary-Policy-534834
+- name: Bloomberg
+  url: https://www.bloomberg.com/news/newsletters/2023-08-08/world-economy-latest-argentina-s-inflation-nightmare-to-shape-election
+- name: The Economist
+  url: https://www.economist.com/finance-and-economics/2024/12/12/bitcoin-is-up-by-138-this-year-it-is-a-nonsense-free-rally  
 - name: Econbrowser
   url: https://econbrowser.com/archives/2023/08/guest-contribution-the-crypto-cycle-and-us-monetary-policy
 - name: The FinReg Blog
