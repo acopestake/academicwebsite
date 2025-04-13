@@ -3,9 +3,9 @@ title: Alexander Copestake
 role: Economist
 bio: My research focuses on the relationships between technology, finance, trade and development.
 interests:
-  - Trade and development
   - Robotics and AI
-  - Digital money
+  - Payment systems
+  - Tokenization
 social:
   - icon: envelope
     icon_pack: fas
