@@ -1,8 +1,7 @@
 ---
 title: Alexander Copestake
 role: Economist
-bio: My research focusses on international trade, development, automation and
-  artificial intelligence.
+bio: My research focuses on the relationships between technology, finance, trade and development.
 interests:
   - Trade and development
   - Robotics and AI
