@@ -16,6 +16,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alexander-copestake
+  - icon: cv
+    icon_pack: ai  # 'ai' is a placeholder for a custom icon, not a real icon_pack
+    link: https://copestake.info/uploads/CV.pdf
+    label: CV
 organizations:
   - name: International Monetary Fund
     url: https://www.imf.org/en/Home
