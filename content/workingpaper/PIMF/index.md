@@ -7,6 +7,7 @@ title: "The Role of Market Structure and Timing in Determining VAT Pass-Through"
 authors:
 - admin
 - "Matthieu Bellon"
+- "Wenzhang Zhang"
 
 # Hide author info and social sharing links in page
 profile: false
@@ -16,6 +17,7 @@ share: false
 author_notes:
 - ""
 - "International Monetary Fund"
+- "University of Oxford"
 
 date: "2021-02-17T00:00:00Z"
 doi: ""
