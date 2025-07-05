@@ -16,6 +16,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/alexander-copestake
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=sH_-leUAAAAJ&hl=en&oi=ao
   - icon: cv
     icon_pack: ai  # 'ai' is a placeholder for a custom icon, not a real icon_pack
     link: https://copestake.info/uploads/CV.pdf
