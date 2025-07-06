@@ -38,6 +38,8 @@ subtitle: '& Other Writing'
   # view: 1
 ---
 
+[Growing Retail Digital Payments: The Value of Interoperability](https://www.imf.org/-/media/Files/Publications/FTN063/2025/English/FTNEA2025004.ashx) | [IMF Fintech Note](https://www.imf.org/en/Publications/fintech-notes/Issues/2025/06/25/Growing-Retail-Digital-Payments-The-Value-of-Interoperability-567814) | *June 2025*
+
 [Discussion of "New Technologies and Jobs in Europe" by Albanesi et al.](https://copestake.info/uploads/discussion_of_albanesi_et_al_2024.pdf) | [ASSA](https://www.aeaweb.org/conference/2025/program?q=eNpNzD0OgCAMBeC7dGbQwYVzeIGKDZLITyjREOLdLcHB7XuvzWvAhNkcoJuI2cWw1kS_CBpmeBQYLGRjrpJBATJHM1goexGeGwZiXCfNjt9XcZ6GLkd3H80pSbFMfTGh7Vfx8wKb2SmK) | *January 2025*
 
 [AI and Services-Led Growth](https://www.imf.org/-/media/Files/Research/research-perspective/2024/050124.ashx) | [IMF Research Perspectives](https://www.imf.org/en/Research/research-perspectives) | *May 2024*
