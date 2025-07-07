@@ -1,6 +1,6 @@
 ---
 title: "AI and Services-Led Growth: Evidence from Indian Job Adverts"
-subtitle: "R&R at *Journal of Human Resources*
+subtitle: "R&R at *Journal of Human Resources*"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
