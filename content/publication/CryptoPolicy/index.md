@@ -16,7 +16,7 @@ share: false
 # Author notes (optional)
 author_notes:
 - ""
-- "International Monetary Fund"
+- "[International Monetary Fund](https://ideas.repec.org/e/pfu47.html#research)"
 - "International Monetary Fund"
 
 date: "2022-12-02T00:00:00Z"
