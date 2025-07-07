@@ -1,5 +1,6 @@
 ---
 title: "AI and Services-Led Growth: Evidence from Indian Job Adverts"
+subtitle: "R&R at *Journal of Human Resources*
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -37,7 +38,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: We document near-exponential growth in the demand for artificial intelligence (AI)-related skills in India’s services sector from 2015, using a new dataset of online vacancies from its largest jobs website. We evaluate the impact of demand for AI skills on establishment-level non-AI postings, using a shift-share design that exploits variation in exposure to new AI inventions. We find that AI adoption significantly reduces growth in non-AI posting volumes and wage offers, particularly for highly skilled managerial and professional occupations, non-routine work, and analytical and communication tasks.
+abstract: 
 
 tags: []
 
