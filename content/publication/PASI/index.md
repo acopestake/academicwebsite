@@ -15,7 +15,7 @@ share: false
 # Author notes (optional)
 author_notes:
 - ""
-- "University of Oxford"
+- ""
 
 date: "2022-10-28T00:00:00Z"
 doi: ""
