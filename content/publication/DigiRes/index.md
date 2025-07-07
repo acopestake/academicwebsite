@@ -46,8 +46,6 @@ featured: false
 links:
 - name: Link
   url: https://www.sciencedirect.com/science/article/pii/S0048733323002329
-- name: IMF Working Paper
-  url: https://www.imf.org/en/Publications/WP/Issues/2022/10/28/Digitalization-and-Resilience-525207
 
 url_pdf: ''
 url_code: ''
