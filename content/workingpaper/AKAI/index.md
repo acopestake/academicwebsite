@@ -17,11 +17,11 @@ share: false
 # Author notes (optional)
 author_notes:
 - ""
-- "World Bank"
-- "World Bank"
-- "University of Oxford"
+- ""
+- ""
+- ""
 
-date: ""
+date: "2024-11-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
