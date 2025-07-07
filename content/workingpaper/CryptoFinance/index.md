@@ -16,8 +16,8 @@ share: false
 # Author notes (optional)
 author_notes:
 - ""
-- "International Monetary Fund"
-- "IESE Business School"
+- ""
+- ""
 
 date: "2024-05-30T00:00:00Z"
 doi: ""
