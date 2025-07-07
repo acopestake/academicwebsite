@@ -19,7 +19,7 @@ author_notes:
 - "International Monetary Fund"
 - "University of Oxford"
 
-date: "2021-02-17T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -35,7 +35,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: "We investigate the substantial variation in the extent to which a rise in value-added tax (VAT) is passed on to consumers. We first extend existing theory to characterize the roles of imperfect competition and product differentiation, then investigate these relationships empirically using a panel of 14 Eurozone countries between 1999 and 2013. We find that consumers pay a larger share of VAT increases when producers face more competitive upstream markets: the higher tax reduces final demand, but this lower demand does not in turn reduce input prices as much when upstream markets are competitive. Greater scope for quality differentiation also increases pass-through, by reducing the relative price elasticity of demand."
+abstract: "R&R at *National Tax Journal*"
 
 tags: []
 
@@ -73,4 +73,3 @@ image:
 slides: ""
 ---
 
-Submitted. Previously: [IMF Working Paper version](https://www.imf.org/en/Publications/WP/Issues/2021/03/05/The-Role-of-Market-Structure-and-Timing-in-Determining-VAT-Pass-Through-50113)
