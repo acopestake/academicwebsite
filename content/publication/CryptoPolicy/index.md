@@ -76,5 +76,3 @@ image:
 # slides: ""
 
 ---
-
-Forthcoming.
