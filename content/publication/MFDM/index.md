@@ -47,8 +47,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: Link
-  url: https://www.sciencedirect.com/science/article/pii/S0165176522004232
+# - name: Link
+#  url: https://www.sciencedirect.com/science/article/pii/S0165176522004232
 
 url_pdf: ''
 url_code: ''
