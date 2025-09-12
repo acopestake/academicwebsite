@@ -37,6 +37,7 @@ subtitle: '& Other Writing'
   #   4 = Citation (publication only)
   # view: 1
 ---
+[India's Frictionless Payments](https://www.imf.org/en/Publications/fandd/issues/2025/09/indias-frictionless-payments-maria-peria) | IMF Finance & Development | *Fall 2025*
 
 [Growing Retail Digital Payments: The Value of Interoperability](https://www.imf.org/-/media/Files/Publications/FTN063/2025/English/FTNEA2025004.ashx) | [IMF Fintech Note](https://www.imf.org/en/Publications/fintech-notes/Issues/2025/06/25/Growing-Retail-Digital-Payments-The-Value-of-Interoperability-567814) | *June 2025*
 
