@@ -1,5 +1,5 @@
 ---
-title: "Integrating Fragmented Networks: The Value of Interoperability in Money and Payments"
+title: "Integrating Fragmented Networks: Interoperability in Money and Payments"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -66,3 +66,4 @@ image:
   preview_only: false
 
 ---
+
