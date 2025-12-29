@@ -46,6 +46,8 @@ featured: false
 links:
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2025/09/19/Optimal-Policy-for-Financial-Market-Tokenization-570540
+- name: CentralBanking.com
+  url: https://www.centralbanking.com/fintech/7973742/imf-study-outlines-%E2%80%98optimal-policy%E2%80%99-for-tokenisation
 
 url_pdf: ''
 url_code: ''
