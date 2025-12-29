@@ -48,6 +48,11 @@ featured: false
 links:
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2025/06/27/Integrating-Fragmented-Networks-The-Value-of-Interoperability-in-Money-and-Payments-568008
+- name: Devdiscourse
+  url: https://www.devdiscourse.com/article/other/3494583-how-linking-payment-platforms-boosted-indias-digital-economy-and-credit-access
+- name: Knowledge@Wharton
+  url: https://knowledge.wharton.upenn.edu/article/how-interoperability-in-payment-systems-pays-off/
+  
 
 url_pdf: ''
 url_code: ''
@@ -66,4 +71,5 @@ image:
   preview_only: false
 
 ---
+
 
