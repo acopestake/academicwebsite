@@ -37,6 +37,8 @@ subtitle: '& Other Writing'
   #   4 = Citation (publication only)
   # view: 1
 ---
+[Payment Frictions, Capital Flows, and Exchange Rates](https://www.suerf.org/publications/suerf-policy-notes-and-briefs/payment-frictions-capital-flows-and-exchange-rates/) | SUERF Policy Briefs | *November 2025*
+
 [India's Frictionless Payments](https://www.imf.org/en/Publications/fandd/issues/2025/09/indias-frictionless-payments-maria-peria) | IMF Finance & Development | *Fall 2025*
 
 [Growing Retail Digital Payments: The Value of Interoperability](https://www.imf.org/-/media/Files/Publications/FTN063/2025/English/FTNEA2025004.ashx) | [IMF Fintech Note](https://www.imf.org/en/Publications/fintech-notes/Issues/2025/06/25/Growing-Retail-Digital-Payments-The-Value-of-Interoperability-567814) | *June 2025*
