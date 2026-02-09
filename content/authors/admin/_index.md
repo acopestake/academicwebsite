@@ -26,6 +26,6 @@ superuser: true
 highlight_name: false
 ---
 
-I am an Economist in the Research Department at the International Monetary Fund. My research focuses on the relationships between technology, finance, trade and development. I hold undergraduate, master’s, and PhD degrees from the University of Oxford.
+I am an economist in the Research Department at the International Monetary Fund. My research focuses on the relationships between technology, finance, trade and development. I hold undergraduate, master’s, and PhD degrees from the University of Oxford.
 
 *Disclaimer: All views expressed on this site are my own and do not necessarily reflect the position of the IMF.*
