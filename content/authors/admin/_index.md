@@ -1,5 +1,6 @@
 ---
 title: Alexander Copestake
+role: Economist
 bio: My research focuses on the relationships between technology, finance, trade and development.
 social:
   - icon: envelope
