@@ -51,7 +51,7 @@ links:
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2023/09/28/China-Spillovers-Aggregate-and-Firm-Level-Evidence-539668
 - name: Supply and Demand Shocks Data
-  url: https://copestake.info/uploads/ChinaSDshocks.csv
+  url: https://copestake.info/uploads/ChinaSupplyDemandShocks.xlsx
     
 url_pdf: ''
 url_code: ''
@@ -69,6 +69,7 @@ image:
   focal_point: ""
   preview_only: false
 ---
+
 
 
 
