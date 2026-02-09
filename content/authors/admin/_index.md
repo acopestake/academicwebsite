@@ -1,11 +1,6 @@
 ---
 title: Alexander Copestake
-role: Economist
 bio: My research focuses on the relationships between technology, finance, trade and development.
-interests:
-  - Fast payment systems
-  - Crypto and CBDC
-  - Tokenization
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,22 +21,11 @@ social:
 organizations:
   - name: International Monetary Fund
     url: https://www.imf.org/en/Home
-education:
-  courses:
-    - course: DPhil in Economics
-      institution: University of Oxford
-      year: 2021
-    - course: MSc in Economics
-      institution: University of Oxford
-      year: 2017
-    - course: BA in Philosophy, Politics & Economics
-      institution: University of Oxford
-      year: 2015
 email: ""
 superuser: true
 highlight_name: false
 ---
 
-I am an Economist in the Research Department at the International Monetary Fund. My research focuses on the relationships between technology, finance, trade and development.
+I am an Economist in the Research Department at the International Monetary Fund. My research focuses on the relationships between technology, finance, trade and development. I hold undergraduate, master’s, and PhD degrees from the University of Oxford.
 
 *Disclaimer: All views expressed on this site are my own and do not necessarily reflect the position of the IMF.*
