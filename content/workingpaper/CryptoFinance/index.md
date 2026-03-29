@@ -35,7 +35,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract: 
+abstract: "R&R at *Journal of International Money and Finance*"
 
 tags: []
 
