@@ -50,6 +50,8 @@ links:
   url: https://cepr.org/publications/dp21111
 - name: IMF Working Paper
   url: https://www.imf.org/en/Publications/WP/Issues/2023/09/28/China-Spillovers-Aggregate-and-Firm-Level-Evidence-539668
+- name: VoxEU
+  url: https://cepr.org/voxeu/columns/china-spillovers
 - name: Supply and Demand Shocks Data
   url: https://copestake.info/uploads/ChinaSupplyDemandShocks.xlsx
     
