@@ -50,6 +50,8 @@ links:
   url: https://www.imf.org/en/publications/wp/issues/2026/03/20/stablecoins-and-the-future-of-payments-evidence-from-financial-markets-574831
 - name: CentralBanking.com
   url: https://www.centralbanking.com/fintech/7975614/markets-betting-on-stablecoin-disruption-say-imf-economists
+- name: Forbes
+  url: https://www.forbes.com/sites/digital-assets/2026/04/29/nearly-two-thirds-stablecoins-suddenly-hit-45t-q1-volume-record/
     
 url_pdf: ''
 url_code: ''
