@@ -44,8 +44,8 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-#- name: Link
-#  url: 
+- name: Link
+  url: https://www.journals.uchicago.edu/doi/10.1086/740840
 
 url_pdf: ''
 url_code: ''
